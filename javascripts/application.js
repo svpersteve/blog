@@ -1,0 +1,1 @@
+var $section=$(".js-reveal__hidden"),$trigger=$(".js-reveal__trigger"),toggleSection=function(){$section.toggle("fast")};$trigger.on("click",toggleSection);
